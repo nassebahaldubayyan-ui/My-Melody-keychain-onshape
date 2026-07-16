@@ -50,9 +50,9 @@ The model was built using the following workflow:
 
 | Feature | Dimension |
 |---------|----------:|
-| Height | **51.222 mm** |
-| Width | **48.090 mm** |
-| Thickness | **4.500 mm** |
+| Height | **59.930 mm** |
+| Width | **56.27 mm** |
+| Thickness | **5.265 mm** |
 
 ---
 
