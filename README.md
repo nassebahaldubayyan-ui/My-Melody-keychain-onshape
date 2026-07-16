@@ -1,9 +1,9 @@
 # 🎀 My Melody Keychain | Onshape CAD Design
 
-A 3D model of a **My Melody keychain** designed in **Onshape** as part of the **Smart Methods Cooperative Training** program. This project demonstrates the fundamentals of sketch-based CAD modeling, including spline tracing, multiple sketches, and layered extrusion techniques.
-
 <p align="center">
   <img src="my-melody-keychain.png" alt="My Melody Keychain" width="350">
+
+A 3D model of a **My Melody keychain** designed in **Onshape** as part of the **Smart Methods Cooperative Training** program. This project demonstrates the fundamentals of sketch-based CAD modeling, including spline tracing, multiple sketches, and layered extrusion techniques.
 
 ---
 
