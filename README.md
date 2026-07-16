@@ -77,11 +77,3 @@ Feel free to use, modify, and share this design with proper attribution.
 ## 👩‍💻 Author
 
 **Nassebah Al-Dubayyan**
-
-Computer Science Student interested in:
-- Artificial Intelligence
-- Computer Vision
-- Software Development
-- CAD Design
-
-GitHub: *(Add your GitHub profile link here.)*
