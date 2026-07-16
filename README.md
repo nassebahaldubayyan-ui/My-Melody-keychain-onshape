@@ -23,7 +23,7 @@ A 3D model of a **My Melody keychain** designed in **Onshape** as part of the **
 Explore the complete 3D model directly in Onshape.
 
 👉 **Onshape Model:**  
-**[Open the My Melody Keychain in Onshape]([text](https://cad.onshape.com/documents/42febbbb917819f8a86da7cd/w/33a016550031135dda36f2db/e/459e2775d2f42f5e0093e092?renderMode=0&uiState=6a584fbb07d3b8a394f11391))**
+**[Open the My Melody Keychain in Onshape](https://cad.onshape.com/documents/42febbbb917819f8a86da7cd/w/33a016550031135dda36f2db/e/459e2775d2f42f5e0093e092?renderMode=0&uiState=6a584fbb07d3b8a394f11391)**
 
 > The Onshape document allows you to rotate, zoom, inspect features, and explore the complete modeling workflow.
 
