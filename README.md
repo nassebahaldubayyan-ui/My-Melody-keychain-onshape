@@ -5,6 +5,14 @@ A 3D model of a **My Melody keychain** designed in **Onshape** as part of the **
 <p align="center">
   <img src="my-melody-keychain.png" alt="My Melody Keychain" width="350">
 </p>
+<p align="center">
+  <img src="design.png" alt="My Melody Keychain" width="350">
+</p>
+<p align="center">
+  <img src="demo.gif" alt="My Melody Keychain" width="350">
+</p>
+
+
 
 ---
 
